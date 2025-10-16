@@ -39,22 +39,7 @@
 
 ---
 
-## 💻 Projects
-| Project | Description | Tech Stack |
-|---------|-------------|-----------|
-| [Project1](#) | A short description of project 1 | React, Node.js, MongoDB |
-| [Project2](#) | A short description of project 2 | Next.js, Express, PostgreSQL |
-| [Project3](#) | A short description of project 3 | React, Node.js, MySQL |
 
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
 
 ### 🚀 Fun Fact
 When I’m not coding, you’ll find me exploring **tech blogs, learning AI, or solving algorithm challenges**. 😄
