@@ -70,7 +70,7 @@ const abdul = {
 ### ⚙️ Frameworks & Libraries
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,springboot,express,tailwind&perline=8" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,spring,express,tailwind&perline=8" />
 </p>
 
 ### 🗄️ Databases
