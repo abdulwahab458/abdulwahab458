@@ -91,7 +91,7 @@ const abdul = {
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=abdulwahab458&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&icon_color=6AD3F7&text_color=ffffff&count_private=true" height="180" />
+  [<img src="https://github-readme-stats.vercel.app/api?username=abdulwahab458&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&icon_color=6AD3F7&text_color=ffffff&count_private=true" height="180" />](https://github-stats.pretto.app/api?username=abdulwahab458&...)
   &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulwahab458&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&text_color=ffffff" height="180" />
 
