@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Abdul%20Wahab&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Open%20Source%20Enthusiast&descAlignY=55&descAlign=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Abdul%20Wahab&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Developer%20%7C%20Open%20Source%20Enthusiast&descAlignY=55&descAlign=50" />
 
 <!-- Animated Typing SVG -->
 <a href="https://git.io/typing-svg">
@@ -36,7 +36,7 @@
 ```javascript
 const abdul = {
   name: "Abdul Wahab",
-  role: "Full Stack Developer",
+  role: "Software Developer",
   location: "🌍 Available Remotely",
   stack: ["React", "Next.js", "Node.js", "Express", "MongoDB", "SQL"],
   interests: ["Open Source", "Cloud Technologies", "Scalable Systems"],
@@ -70,7 +70,7 @@ const abdul = {
 ### ⚙️ Frameworks & Libraries
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind&perline=8" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,springboot,express,tailwind&perline=8" />
 </p>
 
 ### 🗄️ Databases
