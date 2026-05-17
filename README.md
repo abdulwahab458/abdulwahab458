@@ -91,13 +91,13 @@ const abdul = {
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=abdulwahab330066&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&icon_color=6AD3F7&text_color=ffffff&count_private=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abdulwahab458&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&icon_color=6AD3F7&text_color=ffffff&count_private=true" height="180" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulwahab330066&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&text_color=ffffff" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulwahab458&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&text_color=ffffff" height="180" />
 
   <br/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulwahab330066&theme=tokyonight&hide_border=true&background=0D1117&ring=6AD3F7&fire=FF6B6B&currStreakLabel=6AD3F7" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulwahab458&theme=tokyonight&hide_border=true&background=0D1117&ring=6AD3F7&fire=FF6B6B&currStreakLabel=6AD3F7" />
 
 </div>
 
@@ -106,7 +106,7 @@ const abdul = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abdulwahab330066&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=abdulwahab458&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
 </div>
 
 ---
@@ -114,7 +114,7 @@ const abdul = {
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdulwahab330066&theme=tokyo-night&bg_color=0D1117&color=6AD3F7&line=6AD3F7&point=ffffff&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdulwahab458&theme=tokyo-night&bg_color=0D1117&color=6AD3F7&line=6AD3F7&point=ffffff&hide_border=true" />
 </div>
 
 ---
