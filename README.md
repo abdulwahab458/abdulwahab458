@@ -95,17 +95,7 @@ const abdul = {
 
 </div>
 
----
 
-
-## 🏆 GitHub Highlights
-
-<div align="center">
-  <img src="https://img.shields.io/github/followers/abdulwahab458?style=for-the-badge&logo=github&color=6AD3F7&labelColor=0D1117" />
-  <img src="https://img.shields.io/github/stars/abdulwahab458?affiliations=OWNER&style=for-the-badge&logo=github&color=FF6B6B&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/abdulwahab458&query=$.public_repos&label=Public%20Repos&style=for-the-badge&logo=github&color=6AD3F7&labelColor=0D1117" />
-  <img src="https://img.shields.io/github/commit-activity/y/abdulwahab458/REPO_NAME?style=for-the-badge&logo=git&color=FF6B6B&labelColor=0D1117&label=Commits%20(year)" />
-</div>
 
 ---
 
