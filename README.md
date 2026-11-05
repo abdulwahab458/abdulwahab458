@@ -102,7 +102,10 @@ const abdul = {
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/6AD3F7/abdulwahab458" alt="Contribution graph" width="90%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdulwahab458/abdulwahab458/output/github-snake-dark.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/abdulwahab458/abdulwahab458/output/github-snake.svg" />
+  </picture>
 </div>
 
 ---
