@@ -98,10 +98,13 @@ const abdul = {
 ---
 
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Highlights
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abdulwahab458&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
+  <img src="https://img.shields.io/github/followers/abdulwahab458?style=for-the-badge&logo=github&color=6AD3F7&labelColor=0D1117" />
+  <img src="https://img.shields.io/github/stars/abdulwahab458?affiliations=OWNER&style=for-the-badge&logo=github&color=FF6B6B&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/abdulwahab458&query=$.public_repos&label=Public%20Repos&style=for-the-badge&logo=github&color=6AD3F7&labelColor=0D1117" />
+  <img src="https://img.shields.io/github/commit-activity/y/abdulwahab458/REPO_NAME?style=for-the-badge&logo=git&color=FF6B6B&labelColor=0D1117&label=Commits%20(year)" />
 </div>
 
 ---
@@ -109,7 +112,7 @@ const abdul = {
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdulwahab458&theme=tokyo-night&bg_color=0D1117&color=6AD3F7&line=6AD3F7&point=ffffff&hide_border=true" />
+  <img src="https://ghchart.rshah.org/6AD3F7/abdulwahab458" alt="Contribution graph" width="90%" />
 </div>
 
 ---
