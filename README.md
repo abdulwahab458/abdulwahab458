@@ -1,90 +1,130 @@
 <div align="center">
 
-# Hey, I'm Abdul Wahab 👋
+<!-- Animated Header Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Abdul%20Wahab&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Developer%20%7C%20Open%20Source%20Enthusiast&descAlignY=55&descAlign=50" />
 
-### Full-Stack Software Developer
-
+<!-- Animated Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=6AD3F7&center=true&vCenter=true&width=560&lines=React+%7C+Next.js+%7C+Node.js+%7C+Spring+Boot;Building+scalable+web+applications;B.Tech+IT+%E2%80%A2+Open+to+work+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+I'm+Abdul+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;React+%7C+Node.js+%7C+Next.js+Specialist;Building+Scalable+Web+Applications+%F0%9F%9A%80;Always+Learning+%26+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
 </a>
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-abdul--wahab.vercel.app-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white)](https://abdul-wahab.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-wahab-1225a5255/)
-[![Email](https://img.shields.io/badge/Email-Say%20hi-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulwahab330066@gmail.com)
-
-![Followers](https://img.shields.io/github/followers/abdulwahab458?style=flat-square&color=6AD3F7&labelColor=0D1117)
-![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/abdulwahab458&query=$.public_repos&label=repos&style=flat-square&color=6AD3F7&labelColor=0D1117)
-![Profile views](https://komarev.com/ghpvc/?username=abdulwahab458&style=flat-square&color=6AD3F7&labelColor=0D1117)
+<!-- Profile Views & Socials -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=abdulwahab&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  &nbsp;
+  <a href="https://www.linkedin.com/in/abdul-wahab-1225a5255/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://abdul-wahab.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:abdulwahab330066@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 </div>
 
 ---
 
-## 👨‍💻 About
+## 🧑‍💻 About Me
 
-I'm a recent **B.Tech Information Technology** graduate (Alliance University, Bengaluru) who enjoys building full-stack products end to end: API design, databases, and polished UIs. I've worked as a software developer intern on full-stack and API integration work, and as a frontend intern building React interfaces with cross-functional teams.
+```javascript
+const abdul = {
+  name: "Abdul Wahab",
+  role: "Software Developer",
+  location: "🌍 Available Remotely",
+  stack: ["React", "Next.js", "Node.js", "Express", "MongoDB", "SQL"],
+  interests: ["Open Source", "Cloud Technologies", "Scalable Systems"],
+  currentlyLearning: ["AWS", "Docker", "System Design"],
+  funFact: "When not coding, I'm watching or playing football ⚽",
+  openToWork: true,
+};
+```
 
-- 🔭 Building scalable full-stack apps and developer tooling
-- 🌱 Currently deepening **AWS, Docker and System Design**
-- 🤝 Open to **fresher / SDE roles** (Bengaluru or remote) and open-source collaboration
-- ⚽ Football fan, playing or watching
+<img align="right" alt="Coding GIF" width="360" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98df74d87339a834a971c6a5c/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" />
 
----
+- 🔭 &nbsp; Currently building **scalable full-stack applications**
+- 🌱 &nbsp; Deep-diving into **AWS, Docker & Cloud Architecture**
+- 👯 &nbsp; Looking to collaborate on **Open Source Projects**
+- 💬 &nbsp; Ask me about **React, Node.js, REST APIs & Databases**
+- 📫 &nbsp; Reach me at **abdulwahab330066@gmail.com**
+- ⚽ &nbsp; Football fan — *playing or watching, always!*
 
-## 🚀 Featured Projects
-
-| Project | What it is | Stack |
-|---|---|---|
-| **[Crashly](https://github.com/abdulwahab458/crashly)** | Error-monitoring platform with an API, auth-protected dashboard and a drop-in SDK for Node, Express, Fastify and the browser | `TypeScript` `Fastify` `Next.js` `PostgreSQL` `Prisma` `Clerk` |
-| **[Modern Trust](https://github.com/abdulwahab458/modern-trust)** | Personal finance app covering accounts, transactions, portfolio, budgets, goals and loans | `Spring Boot` `React` `TypeScript` `Tailwind` `TanStack Query` |
-| **[Amplify](https://github.com/abdulwahab458/amplify)** | Community-funded message amplification mobile app prototype | `React Native` `Expo` `PostgreSQL` |
-| **[Chatzo](https://github.com/abdulwahab458/chatzo)** | Real-time full-stack chat application | `React` `Express` `MongoDB` `Socket.IO` |
-| **[Mentora](https://github.com/abdulwahab458/mentora)** | Career guidance platform | `Next.js` |
-| **[Smart Finance Dashboard](https://github.com/abdulwahab458/smart-finance-dashboard)** | Secure finance backend with JWT auth and phase-wise architecture | `Spring Boot` `Spring Security` `JWT` `PostgreSQL` |
-
-> 📌 Pin your best 4–6 repos on your profile to match this list.
+<br clear="right"/>
 
 ---
 
 ## ⚡ Tech Stack
 
+### 🧠 Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,c,cpp,java&perline=8" />
+</p>
+
+### ⚙️ Frameworks & Libraries
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,spring,express,tailwind&perline=8" />
+</p>
+
+### 🗄️ Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&perline=8" />
+</p>
+
+### 🛠️ Tools & Cloud
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,aws&perline=8" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
 
-**Languages**<br/>
-<img src="https://skillicons.dev/icons?i=ts,js,java,cpp,c,html,css&perline=8" /><br/><br/>
-**Frontend & Backend**<br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,spring&perline=8" /><br/><br/>
-**Databases & ORM**<br/>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,prisma&perline=8" /><br/><br/>
-**Tools & Cloud**<br/>
-<img src="https://skillicons.dev/icons?i=git,github,docker,aws,vscode&perline=8" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulwahab458&theme=tokyonight&hide_border=true&background=0D1117&ring=6AD3F7&fire=FF6B6B&currStreakLabel=6AD3F7" />
 
 </div>
 
 ---
 
-## 📊 GitHub Activity
+
+## 🏆 GitHub Trophies
 
 <div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=abdulwahab458&theme=tokyonight&hide_border=true&background=0D1117&ring=6AD3F7&fire=FF6B6B&currStreakLabel=6AD3F7" alt="GitHub streak" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulwahab458&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7" alt="Top languages" />
-
+  <img src="https://github-profile-trophy.vercel.app/?username=abdulwahab458&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
 </div>
 
 ---
 
-## 📫 Let's connect
+## 📈 Contribution Graph
 
-I'm actively looking for a **software developer role**. If you're building something interesting, reach me at **abdulwahab330066@gmail.com** or on [LinkedIn](https://www.linkedin.com/in/abdul-wahab-1225a5255/).
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdulwahab458&theme=tokyo-night&bg_color=0D1117&color=6AD3F7&line=6AD3F7&point=ffffff&hide_border=true" />
+</div>
+
+---
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+### 💭 Dev Quote of the Day
+
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+---
+
+<!-- Animated Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
+
+**Thanks for visiting! Drop a ⭐ if you like what you see 😄**
 
 </div>
