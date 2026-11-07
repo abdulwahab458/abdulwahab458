@@ -32,14 +32,7 @@
 
 <h2>Proof at a glance</h2>
 
-<table width="100%">
-<tr>
-<td width="25%" align="center"><strong>33</strong><br /><sub>Repositories</sub></td>
-<td width="25%" align="center"><strong>6</strong><br /><sub>Stars</sub></td>
-<td width="25%" align="center"><strong>326</strong><br /><sub>Contributions</sub></td>
-<td width="25%" align="center"><strong>3</strong><br /><sub>Followers</sub></td>
-</tr>
-</table>
+
 
 <p align="center">
 <picture>
