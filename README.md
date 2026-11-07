@@ -3,7 +3,7 @@
 <table width="100%">
 <tr>
 <td width="64%" valign="middle">
-<p><sub>RECRUITER SIGNAL BRIEF · abdulwahab458</sub></p>
+<p><sub> abdulwahab458</sub></p>
 <h1>Abdul Wahab</h1>
 <h2>Frontend or full-stack engineer</h2>
 <p>Full-stack dev crafting fast, clean web apps with React, Next.js &amp; Node | B.Tech IT '26 | Open to work Bengaluru / Remote</p>
@@ -112,4 +112,3 @@
 </tr>
 </table>
 
-<p align="center"><sub>Abdul Wahab · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
