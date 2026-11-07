@@ -1,123 +1,115 @@
 <div align="center">
 
-<!-- Animated Header Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Abdul%20Wahab&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Developer%20%7C%20Open%20Source%20Enthusiast&descAlignY=55&descAlign=50" />
+<table width="100%">
+<tr>
+<td width="64%" valign="middle">
+<p><sub>RECRUITER SIGNAL BRIEF · abdulwahab458</sub></p>
+<h1>Abdul Wahab</h1>
+<h2>Frontend or full-stack engineer</h2>
+<p>Full-stack dev crafting fast, clean web apps with React, Next.js &amp; Node | B.Tech IT '26 | Open to work Bengaluru / Remote</p>
+<p><strong>● Building and sharing work in public</strong></p>
 
-<!-- Animated Typing SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+I'm+Abdul+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;React+%7C+Node.js+%7C+Next.js+Specialist;Building+Scalable+Web+Applications+%F0%9F%9A%80;Always+Learning+%26+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<!-- Profile Views & Socials -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=abdulwahab&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  &nbsp;
-  <a href="https://www.linkedin.com/in/abdul-wahab-1225a5255/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://abdul-wahab.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="mailto:abdulwahab330066@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
+<p><a href="https://github.com/abdulwahab458">GitHub</a> &nbsp;·&nbsp; <a href="https://wahab23.vercel.app/">Website</a></p>
+</td>
+<td width="36%" valign="middle" align="center">
+<img src="https://avatars.githubusercontent.com/u/143833600?u=ade9f7a324e904905005f33964bc2a71550594bd&amp;v=4" width="180" alt="Abdul Wahab GitHub avatar" />
+</td>
+</tr>
+</table>
 </div>
 
----
+<h2>What teams can evaluate quickly</h2>
 
-## 🧑‍💻 About Me
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · TypeScript · JavaScript · Java</p></td>
+<td width="33%" valign="top"><h3>Public proof</h3><p>33 repositories · 6 stars</p></td>
+<td width="33%" valign="top"><h3>Momentum</h3><p>326 contributions · 105 active days</p></td>
+</tr>
+</table>
 
-```javascript
-const abdul = {
-  name: "Abdul Wahab",
-  role: "Software Developer",
-  location: "🌍 Available Remotely",
-  stack: ["React", "Next.js", "Node.js", "Express", "MongoDB", "SQL"],
-  interests: ["Open Source", "Cloud Technologies", "Scalable Systems"],
-  currentlyLearning: ["AWS", "Docker", "System Design"],
-  funFact: "When not coding, I'm watching or playing football ⚽",
-  openToWork: true,
-};
-```
+<p><sub>Full-stack dev crafting fast, clean web apps with React, Next.js &amp; Node | B.Tech IT '26 | Open to work Bengaluru / Remote</sub></p>
 
-<img align="right" alt="Coding GIF" width="360" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98df74d87339a834a971c6a5c/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" />
+<h2>Proof at a glance</h2>
 
-- 🔭 &nbsp; Currently building **scalable full-stack applications**
-- 🌱 &nbsp; Deep-diving into **AWS, Docker & Cloud Architecture**
-- 👯 &nbsp; Looking to collaborate on **Open Source Projects**
-- 💬 &nbsp; Ask me about **React, Node.js, REST APIs & Databases**
-- 📫 &nbsp; Reach me at **abdulwahab330066@gmail.com**
-- ⚽ &nbsp; Football fan — *playing or watching, always!*
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>33</strong><br /><sub>Repositories</sub></td>
+<td width="25%" align="center"><strong>6</strong><br /><sub>Stars</sub></td>
+<td width="25%" align="center"><strong>326</strong><br /><sub>Contributions</sub></td>
+<td width="25%" align="center"><strong>3</strong><br /><sub>Followers</sub></td>
+</tr>
+</table>
 
-<br clear="right"/>
-
----
-
-## ⚡ Tech Stack
-
-### 🧠 Languages
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,c,cpp,java&perline=8" />
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=abdulwahab458&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F143833600%3Fu%3Dade9f7a324e904905005f33964bc2a71550594bd%26v%3D4&v=recruiter-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=abdulwahab458&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F143833600%3Fu%3Dade9f7a324e904905005f33964bc2a71550594bd%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Abdul Wahab GitHub proof metrics" />
+</picture>
 </p>
 
-### ⚙️ Frameworks & Libraries
+<h2>Selected work</h2>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,spring,express,tailwind&perline=8" />
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=abdulwahab458&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F143833600%3Fu%3Dade9f7a324e904905005f33964bc2a71550594bd%26v%3D4&repos=abdulwahab458%2FEmail_Scheduler%2Cabdulwahab458%2FFinnex-Loan-Management-System-%2Cabdulwahab458%2FFinnex-_Frontend%2Cabdulwahab458%2F4aviators&v=recruiter-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=abdulwahab458&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F143833600%3Fu%3Dade9f7a324e904905005f33964bc2a71550594bd%26v%3D4&repos=abdulwahab458%2FEmail_Scheduler%2Cabdulwahab458%2FFinnex-Loan-Management-System-%2Cabdulwahab458%2FFinnex-_Frontend%2Cabdulwahab458%2F4aviators&v=recruiter-projects-1&mode=dark" width="100%" alt="Abdul Wahab selected projects" />
+</picture>
+</td>
+<td width="42%" valign="top">
+<h3><a href="https://github.com/abdulwahab458/Email_Scheduler">Email_Scheduler</a></h3>
+<p>A selected public project.</p>
+<p><sub>TypeScript · ⭐ 1 · 🍴 0</sub></p>
+<p><a href="https://github.com/abdulwahab458/Email_Scheduler">Read the repository →</a></p>
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3><a href="https://github.com/abdulwahab458/Finnex-Loan-Management-System-">Finnex-Loan-Management-System-</a></h3><p>A selected public project.</p><p><sub>TypeScript · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/abdulwahab458/Finnex-_Frontend">Finnex-_Frontend</a></h3><p>A selected public project.</p><p><sub>TypeScript · ⭐ 1</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/abdulwahab458/4aviators">4aviators</a></h3><p>A selected public project.</p><p><sub>JavaScript · ⭐ 0</sub></p></td>
+</tr>
+</table>
+
+<h2>Technical toolkit</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=abdulwahab458&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F143833600%3Fu%3Dade9f7a324e904905005f33964bc2a71550594bd%26v%3D4&v=recruiter-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=abdulwahab458&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F143833600%3Fu%3Dade9f7a324e904905005f33964bc2a71550594bd%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Abdul Wahab technology stack" />
+</picture>
 </p>
 
-### 🗄️ Databases
+<table width="100%">
+<tr>
+<td width="20%" align="center"><strong>TypeScript</strong><br /><sub>69% of public code</sub></td>
+<td width="20%" align="center"><strong>JavaScript</strong><br /><sub>16% of public code</sub></td>
+<td width="20%" align="center"><strong>Java</strong><br /><sub>12% of public code</sub></td>
+<td width="20%" align="center"><strong>CSS</strong><br /><sub>2% of public code</sub></td>
+<td width="20%" align="center"><strong>C++</strong><br /><sub>1% of public code</sub></td>
+</tr>
+</table>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&perline=8" />
+<h2>Consistency signal</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=abdulwahab458&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F143833600%3Fu%3Dade9f7a324e904905005f33964bc2a71550594bd%26v%3D4&v=recruiter-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=abdulwahab458&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F143833600%3Fu%3Dade9f7a324e904905005f33964bc2a71550594bd%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Abdul Wahab contribution activity" />
+</picture>
 </p>
 
-### 🛠️ Tools & Cloud
+<hr />
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,aws&perline=8" />
-</p>
+<table width="100%">
+<tr>
+<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
+<td width="38%" valign="middle" align="right"><a href="https://github.com/abdulwahab458">GitHub</a><br /><a href="https://wahab23.vercel.app/">Website</a></td>
+</tr>
+</table>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulwahab458&theme=tokyonight&hide_border=true&background=0D1117&ring=6AD3F7&fire=FF6B6B&currStreakLabel=6AD3F7" />
-
-</div>
-
-
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://ghchart.rshah.org/6AD3F7/abdulwahab458" alt="Contribution graph" width="90%" />
-</div>
-
----
-
-<div align="center">
-
-### 💭 Dev Quote of the Day
-
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-
----
-
-<!-- Animated Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
-
-**Thanks for visiting! Drop a ⭐ if you like what you see 😄**
-
-</div>
+<p align="center"><sub>Abdul Wahab · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
